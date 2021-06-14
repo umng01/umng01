@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, FrontEnd Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/umng01](my github account)
+- 👨‍💻 All of my projects are available at [https://github.com/umng01]
 
 - 📫 How to reach me **umng01@gmail.com**
 
