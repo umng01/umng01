@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **DEVSNEST COMMUNITY**
 
-- 🌱 I’m currently learning **DSA, FrontEnd Development**
+- 🌱 I’m exploring in the **FrontEnd Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/umng01]
 
