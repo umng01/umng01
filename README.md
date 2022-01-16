@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umng01&label=Profile%20views&color=0e75b6&style=flat" alt="umng01" /> </p>
 
-- 🔭 I’m currently working with **DEVSNEST COMMUNITY**
 
-- 🌱 I’m exploring the **FrontEnd Technologies**
+- 🌱 I’m improving my **Problem Solving Skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/umng01]
 
